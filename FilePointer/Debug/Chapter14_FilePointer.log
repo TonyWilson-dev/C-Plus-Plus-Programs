@@ -1,0 +1,3 @@
+﻿  FilePointerExample.cpp
+C:\Users\Tony_\Desktop\Chapter14_FilePointer\FilePointerExample.cpp(15,8): warning C4551: function call missing argument list
+  Chapter14_FilePointer.vcxproj -> C:\Users\Tony_\Desktop\Chapter14_FilePointer\Debug\Chapter14_FilePointer.exe
